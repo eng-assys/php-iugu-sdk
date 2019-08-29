@@ -7,7 +7,7 @@ use Iugu\PaymentMethod;
 use Iugu\Request\AbstractRequest;
 
 /**
- * Class CancelPaymentMethodRequest
+ * Class CreatePaymentMethodRequest
  *
  * @package Iugu\PaymentMethod\Request
  */
@@ -17,7 +17,7 @@ class CreatePaymentMethodRequest extends AbstractRequest
     private $payment_method;
 
     /**
-     * CancelPaymentMethodRequest constructor.
+     * CreatePaymentMethodRequest constructor.
      *
      * @param Environment $environment
      * @param PaymentMethod $payment_method

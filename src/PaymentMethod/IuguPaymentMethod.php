@@ -11,7 +11,7 @@ use Iugu\PaymentMethod\Request\SearchPaymentMethodRequest;
 use Iugu\PaymentMethod\Request\UpdatePaymentMethodRequest;
 
 /**
- * The Iugu PaymentMethod SDK front-end;
+ * The IuguPaymentMethod SDK front-end;
  */
 class IuguPaymentMethod
 {
