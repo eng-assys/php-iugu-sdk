@@ -11,7 +11,7 @@ class Payer implements \JsonSerializable
 {
 
     /** @var string
-     * CPF ou CNPJ do cliente
+     * CPF ou CNPJ do cliente.
      */
     private $cpf_cnpj;
 
